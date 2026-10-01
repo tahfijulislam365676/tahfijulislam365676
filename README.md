@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🖐 আসসালামু আলাইকুম, আমি এমডি তাহফিজুল ইসলাম
 
-<!--
-**tahfijulislam365676/tahfijulislam365676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+আমি একজন **ওয়েব ডেভেলপার (Web Developer)**। নতুন প্রযুক্তি শিখতে এবং তা দিয়ে নতুন নতুন প্রজেক্ট তৈরি করতে ভালোবাসি।
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 আমার দক্ষতা ও ব্যবহৃত প্রযুক্তি (Skills & Tools)
+
+- **Frontend:** HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React
+- **Backend & Database:** Node.js, Express.js, MongoDB
+- **Tools & Design:** Git, GitHub, VS Code, Photoshop, Illustrator, Canva
+
+---
+
+### 📬 যোগাযোগ (Connect with Me)
+
+- 🌐 **Location:** বরিশাল, বাংলাদেশ
+- 💼 **LinkedIn:** [আপনার লিঙ্কডইন আইডির লিংক এখানে বসান]
+- 📧 **Email:** [আপনার ইমেইল আইডি এখানে বসান]
+
+---
+
+### 📊 GitHub Stats
+
+![Tahfijul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tahfijulislam365676&show_icons=true&theme=tokyonight)
