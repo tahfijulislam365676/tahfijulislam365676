@@ -1,10 +1,10 @@
-# 🖐 আসসালামু আলাইকুম, আমি এমডি তাহফিজুল ইসলাম
+# 🖐 Assalamu Alaikum, I'm Md. Tahfijul Islam
 
-আমি একজন **ওয়েব ডেভেলপার (Web Developer)**। নতুন প্রযুক্তি শিখতে এবং তা দিয়ে নতুন নতুন প্রজেক্ট তৈরি করতে ভালোবাসি।
+I'm a **Web Developer**. I love learning new technologies and building new projects with them.
 
 ---
 
-### 🚀 আমার দক্ষতা ও ব্যবহৃত প্রযুক্তি (Skills & Tools)
+### 🚀 My Skills & Tools
 
 - **Frontend:** HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React
 - **Backend & Database:** Node.js, Express.js, MongoDB
@@ -12,11 +12,11 @@
 
 ---
 
-### 📬 যোগাযোগ (Connect with Me)
+### 📬 Contacts
 
-- 🌐 **Location:** বরিশাল, বাংলাদেশ
-- 💼 **LinkedIn:** [আপনার লিঙ্কডইন আইডির লিংক এখানে বসান]
-- 📧 **Email:** [আপনার ইমেইল আইডি এখানে বসান]
+- 🌐 **Location:** Barishal, Bangladesh
+- 💼 **Facebook:** [Tahfijul Islam](https://www.facebook.com/tahfijulislam.dev/)
+- 📧 **Email:** [tahfijulislam365676@gmail.com](mailto:tahfijulislam365676@gmail.com)
 
 ---
 
